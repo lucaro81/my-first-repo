@@ -1,30 +1,37 @@
-# This is a large heading
+#Luis Carrillo
 
-## This is a smaller heading
+###Bio
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Born and raised in Mérida, México
 
-- This is
-- an unordered
-- list
+Automation engineering but not working on that field.
 
-1. This is
-2. an ordered
-3. list
+Some knowledge on computer science. A bit rusted and trying to get some Unix Knowledge. 
 
-Here is `some code` in the middle of a sentence.
+Master in science of educatio, math teacher on high school level. 
 
-```
-This is
-a block
-of code
-```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Hobbies
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Music
+
+Reading
+
+Watching tv
+
+
+### Favorite foods
+
+Mole
+Pozole
+Tacos
+
+### Social media
+
+Twitter: lucaro81
+
+Instagram: lucaro81
+
+Facebook: lucaro81
 
 nano README.md
