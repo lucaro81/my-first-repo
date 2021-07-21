@@ -8,7 +8,7 @@ Automation engineering but not working on that field.
 
 Some knowledge on computer science. A bit rusted and trying to get some Unix Knowledge. 
 
-Master in science of educatio, math teacher on high school level. 
+Master in science of education, math teacher on high school level. 
 
 
 ### Hobbies
